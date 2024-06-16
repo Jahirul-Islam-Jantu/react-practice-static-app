@@ -5,7 +5,7 @@ import{socialIcons} from "../icons/data.js";
 
 const CreateSocialIcons = () => {
     return (
-        <div className="d-flex justify-content-center align-items-center flex-column">
+        <div className="d-flex justify-content-center align-items-center flex-column mt-4">
             <h1>Social Icons</h1>
             <div className="d-flex">
                 {socialIcons.map((item) => (

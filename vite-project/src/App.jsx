@@ -1,11 +1,11 @@
 import React from 'react';
-import SocialIconPage from "./pages/SocialIconPage.jsx";
+import Product from "./pages/Product.jsx";
 
 
 const App = () => {
     return (
         <div>
-            <SocialIconPage/>
+            <Product />
         </div>
     );
 };
